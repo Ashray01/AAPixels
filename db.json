@@ -47,8 +47,8 @@
   }
 ],
   "locations":
-  [ {"street": "51号永诚国际7栋336", "road": "58 Heshun Rd", "district": "Ping Jiang Qu", "state": "Jiangsu", "countrycode": "CN", "uid": "a0001", "coord1": "22.3812904", "coord2": "114.1855388" }, 
-   {"street": "机场路1号富华大楼518室", "road": "Jinjihu Ave", "district": "Wuzhong District", "state": "Jiangsu", "countrycode": "CN", "uid": "a0002", "coord1": "22.375210", "coord2": "114.113050" }, 
+  [ {"street": "兴盛路12号", "road": "Xingguo Rd", "district": "Tianhe District", "state": "Guangdong Province", "countrycode": "CN", "uid": "a0001", "coord1": "23.113511", "coord2": "113.289942" }, 
+   {"street": "元美西路8号华凯广场A座2层01", "road": "Yuanmei Rd", "district": "Dongguan", "state": "Guangdong Province", "countrycode": "CN", "uid": "a0002", "coord1": "-33.423967", "coord2": "-70.738205" }, 
    {"street": "机场路1号富华大楼518室", "road": "Jinjihu Ave", "district": "Wuzhong District", "state": "Jiangsu", "countrycode": "CN", "uid": "a0003", "coord1": "33.668773", "coord2": "119.478810" } ]
 }
 
