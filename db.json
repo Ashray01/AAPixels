@@ -48,7 +48,7 @@
 ],
   "locations":
   [ {"street": "兴盛路12号", "road": "Xingguo Rd", "district": "Tianhe District", "state": "Guangdong Province", "countrycode": "CN", "uid": "a0001", "coord1": "23.113511", "coord2": "113.289942" }, 
-   {"street": "元美西路8号华凯广场A座2层01", "road": "Yuanmei Rd", "district": "Dongguan", "state": "Guangdong Province", "countrycode": "CN", "uid": "a0002", "coord1": "-33.423967", "coord2": "-70.738205" }, 
-   {"street": "机场路1号富华大楼518室", "road": "Jinjihu Ave", "district": "Wuzhong District", "state": "Jiangsu", "countrycode": "CN", "uid": "a0003", "coord1": "33.668773", "coord2": "119.478810" } ]
+   {"street": "Shop 14 St. James Place Shopping Plaza", "road": "2 Gloucester Ave", "district": "Montego Bay", "state": "Jamaica", "countrycode": "JA", "uid": "a0002", "coord1": "18.024595", "coord2": "-76.764111" }, 
+   {"street": "Kingstown Hill", "road": "Kingstown Hill drive", "district": "Kingstown", "state": "St Vincent & Grenadines", "countrycode": "SVG", "uid": "a0003", "coord1": "33.668773", "coord2": "119.478810" } ]
 }
 
