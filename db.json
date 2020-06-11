@@ -45,6 +45,10 @@
     "uid": "u0005"
 
   }
-]
+],
+  "locations":
+  [ {"street": "939 Marion Rd", "suburb": "Mitchell Park", "postcode": "5043", "state": "SA", "countrycode": "au", "uid": "a0001", "coord1": "-35.0143878", "coord2": "138.5582152" }, 
+   {"street": "449/459 Port Rd", "suburb": "Croydon", "postcode": "5008", "state": "SA", "countrycode": "au", "uid": "a0002", "coord1": "-34.8979597", "coord2": "138.5600184" }, 
+   {"street": "87/93 Main North Rd", "suburb": "Nailsworth", "postcode": "5083", "state": "SA", "countrycode": "au", "uid": "a0003", "coord1": "-34.8892856", "coord2": "138.6013738" } ]
 }
 
