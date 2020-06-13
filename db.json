@@ -10,9 +10,9 @@
 
   },
   {
-    "name": "Toyota MarkX 2017",
-    "price": "120.00",
-    "image": "https://fsb.zobj.net/crop.php?r=Vkkc-kk5AznBw4k7VvD5_0lSk9Hor2DRVWRjEHZe10Uz4ZEyfe_tSEaA-ftl_Wy_myCm968qXYplbskzrPdt-UMJWiQd43injvA4yAfPPo5q6kcyv23PUvbnxYr3w05xq6fSlDfa8H_94K5u",
+    "name": "Toyota Camry",
+    "price": "80.00",
+    "image": "https://www.cstatic-images.com/supersized/in/v1/62935454/4T1B11HK1KU229263/edd26c015a429336836e6d10c3790a1b.jpg",
     "details": "Brand New",
     "category": "Cars",
     "uid": "u0002"
@@ -28,21 +28,66 @@
 
   },
   {
-    "name": "Toyota MarkX 2019",
-    "price": "120.00",
-    "image": "https://fsb.zobj.net/crop.php?r=Vkkc-kk5AznBw4k7VvD5_0lSk9Hor2DRVWRjEHZe10Uz4ZEyfe_tSEaA-ftl_Wy_myCm968qXYplbskzrPdt-UMJWiQd43injvA4yAfPPo5q6kcyv23PUvbnxYr3w05xq6fSlDfa8H_94K5u",
-    "details": "Good Condition",
+    "name": "BMW Seattle",
+    "price": "150.00",
+    "image": "https://www.cstatic-images.com/supersized/in/v1/457136/WBA8E1C37HA029658/b7a23207dea0f2bb67c40eb9b7cb0813.jpg",
+    "details": "Excellent Condition",
     "category": "Cars",
     "uid": "u0004"
 
   },
   {
-    "name": "Toyota MarkX 2015",
-    "price": "120.00",
-    "image": "https://fsb.zobj.net/crop.php?r=Vkkc-kk5AznBw4k7VvD5_0lSk9Hor2DRVWRjEHZe10Uz4ZEyfe_tSEaA-ftl_Wy_myCm968qXYplbskzrPdt-UMJWiQd43injvA4yAfPPo5q6kcyv23PUvbnxYr3w05xq6fSlDfa8H_94K5u",
-    "details": "Good Condition",
+    "name": "Toyota Camry",
+    "price": "90.00",
+    "image": "https://www.cstatic-images.com/supersized/in/v1/19060115/4T1B11HK3KU259056/6b46b45042aa2043d8aeb8971e0e5ebd.jpg",
+    "details": "Excellent Condition",
     "category": "Cars",
     "uid": "u0005"
+
+  },
+    {
+    "name": "Hyyundai i40",
+    "price": "90.00",
+    "image": "https://www.hyundai.com/content/dam/hyundai/ww/en/images/find-a-car/pip/cars/i40-vf/gallery/i40-vf-pe2-highlights-gallery-01.jpg",
+    "details": "Excellent Condition",
+    "category": "Cars",
+    "uid": "u0006"
+
+  },
+    {
+    "name": "Audi a5",
+    "price": "90.00",
+    "image": "https://m.economictimes.com/thumb/msid-67391170,width-1200,height-900,resizemode-4,imgsize-399428/6.jpg",
+    "details": "Excellent Condition",
+    "category": "Cars",
+    "uid": "u0007"
+
+  },
+    {
+    "name": "BMW X3",
+    "price": "120.00",
+    "image": "https://cdn.motor1.com/images/mgl/9AV7X/s1/bmw-x3-m-und-bmw-x4-m.jpg",
+    "details": "Excellent Condition",
+    "category": "Cars",
+    "uid": "u0008"
+
+  },
+    {
+    "name": "Ford Truck",
+    "price": "150.00",
+    "image": "https://www.trucks.com/wp-content/uploads/2017/09/2018-Ford-F-Series-Super-Duty-Limited2.jpg",
+    "details": "Excellent Condition",
+    "category": "Truck",
+    "uid": "u0009"
+
+  },
+    {
+    "name": "Jeep",
+    "price": "90.00",
+    "image": "https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/bhp/lineup/drive_forward/Jeep_VehicleLineUp_WK.jpg.image.500.jpg",
+    "details": "Excellent Condition",
+    "category": "Cars",
+    "uid": "u0010"
 
   }
 ],
